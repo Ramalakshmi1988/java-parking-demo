@@ -13,12 +13,7 @@ public class CarTest {
     }
 
     @Test
-    public void hasMonthlyPass(){
+    public void hasMonthlyPass() {
         assertTrue(classUnderTest.isHasPass());
     }
-//
-//    @Test
-//    public void hasLicensePlate(){
-//
-//    }
 }
